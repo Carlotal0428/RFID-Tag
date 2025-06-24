@@ -25,11 +25,6 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 
 Each datasheet provides technical specifications, including chip type, read range, dimensions, durability, and suggested use cases. These documents are intended for engineers, procurement teams, and solution providers evaluating RFID hardware.
 
-## 🔗 Citation / DOI
-
-Datasheets released through [Zenodo](https://zenodo.org/) are citable and receive a DOI. The DOI for this release is: [10.5281/zenodo.15726781](https://doi.org/10.5281/zenodo.15726781).  
-You may also find the DOI listed in the [Releases](https://github.com/Carlotal0428/RFID-Tag/releases) section of this repository.
-
 
 ## 📬 Contact
 
