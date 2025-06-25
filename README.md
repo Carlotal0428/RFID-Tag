@@ -19,6 +19,21 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 - **Product page:**  
   [https://rfidtag.com/product/textile-anti-gamma-ray-uhf-rfid-laundry-tag/](https://rfidtag.com/product/textile-anti-gamma-ray-uhf-rfid-laundry-tag/)
 
+  ### 2. ABS RFID KEY-FOB Tag
+
+- **Model:** AZKF-UTL C-ABS | AZKF-UTL EV1-ABS
+- **Highlights:**  
+  - Durable ABS plastic housing, sturdy and suitable for everyday carry  
+  - Enables reliable contactless communication with stable reading distance  
+  - Available in a variety of colors and styles to meet diverse customer and environment needs  
+- **Ideal for:**  
+  - Cashless payment 
+  - Event ticketing  
+  - Hospitality management
+  - Loyalty programs 
+- **Product page:**  
+ https://rfidtag.com/product-category/by-industries/hospitality/rfid-keyfob/
+
 ---
 
 ## 📦 Usage
