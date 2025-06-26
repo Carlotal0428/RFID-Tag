@@ -21,7 +21,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 
   ### 2. ABS RFID KEY-FOB Tag
 
-- **Model:** AZKF-UTL C-ABS | AZKF-UTL EV1-ABS | AZKF-EM4305-ABS
+- **Model:** AZKF-UTL C-ABS | AZKF-UTL EV1-ABS | AZKF-EM4305-ABS | AZKF-EM4200-ABS | AZKF-ATA5577-ABS | AZKF-TK4100-ABS
 - **Highlights:**  
   - Durable ABS plastic housing, sturdy and suitable for everyday carry  
   - Enables reliable contactless communication with stable reading distance  
@@ -33,6 +33,21 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - Loyalty programs 
 - **Product page:**  
  https://rfidtag.com/product-category/by-industries/hospitality/rfid-keyfob/
+
+  ### 3. RFID Readers and Antenna
+
+- **Model:** AZRT-LMR200-15M
+- **Highlights:**  
+  - Compatible with UHF/HF RFID protocols for flexible integration
+  - High sensitivity and long-range read capabilities ensure fast and accurate tag detection 
+  - Suitable for both indoor and outdoor environments
+  - Antennas optimized for various orientations and mounting options
+- **Ideal for:**  
+  - Warehouse automation
+  - Retail inventory tracking 
+  - Asset tracking
+- **Product page:**  
+(https://rfidtag.com/product-category/rfid-readers/)
 
 ---
 
