@@ -21,7 +21,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 
   ### 2. ABS RFID KEY-FOB Tag
 
-- **Model:** AZKF-UTL C-ABS | AZKF-UTL EV1-ABS
+- **Model:** AZKF-UTL C-ABS | AZKF-UTL EV1-ABS | AZKF-EM4305-ABS
 - **Highlights:**  
   - Durable ABS plastic housing, sturdy and suitable for everyday carry  
   - Enables reliable contactless communication with stable reading distance  
