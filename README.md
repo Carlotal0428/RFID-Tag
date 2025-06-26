@@ -1,6 +1,6 @@
 # RFID Product Datasheets
 
-This repository contains official technical datasheets for RFIDTag Solutions' products, including UHF RFID tags designed for industrial laundry, textile tracking, and apparel management.
+This repository contains official technical datasheets for RFIDTag Solutions' products, including UHF RFID tags designed for industrial laundry, textile tracking, apparel management, and more.
 
 ## 📄 Available Datasheets
 
