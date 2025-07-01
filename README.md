@@ -1,4 +1,4 @@
-# RFID Product Datasheets
+![image](https://github.com/user-attachments/assets/049a90fd-5253-41b0-927d-f6c55f40dfac)# RFID Product Datasheets
 
 This repository contains official technical datasheets for RFIDTag Solutions' products, including UHF RFID tags designed for industrial laundry, textile tracking, apparel management, and more.
 
@@ -36,7 +36,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 
   ### 3. RFID Readers and Antenna
 
-- **Model:** AZRT-LMR200-15M | AZRT-LMR400-5M | AZ 9 dBi | AZ-5 dBi | AZ 12 dBi | AZ-EA26 
+- **Model:** AZRT-LMR200-15M | AZRT-LMR400-5M | AZ 9 dBi | AZ-5 dBi | AZ 12 dBi | AZ-EA26 | AZ RL173 | AZ-DA28 | AZ CP30 | AZ C72 | AZ U300
 - **Highlights:**  
   - Compatible with UHF/HF RFID protocols for flexible integration
   - High sensitivity and long-range read capabilities ensure fast and accurate tag detection 
