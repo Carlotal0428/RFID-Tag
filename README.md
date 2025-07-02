@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/049a90fd-5253-41b0-927d-f6c55f40dfac)# RFID Product Datasheets
+# RFID Product Datasheets
 
 This repository contains official technical datasheets for RFIDTag Solutions' products, including UHF RFID tags designed for industrial laundry, textile tracking, apparel management, and more.
 
@@ -35,8 +35,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
  https://rfidtag.com/product-category/by-industries/hospitality/rfid-keyfob/
 
   ### 3. RFID Readers and Antenna
-
-- **Model:** AZRT-LMR200-15M | AZRT-LMR400-5M | AZ 9 dBi | AZ-5 dBi | AZ 12 dBi | AZ-EA26 | AZ RL173 | AZ-DA28 | AZ CP30 | AZ C72 | AZ U300
+- **Model:** AZRT-LMR200-15M | AZRT-LMR400-5M | AZ 9 dBi | AZ-5 dBi | AZ 12 dBi | AZ-EA26 | AZ RL173 | AZ-DA28 | AZ CP30 | AZ C72 | AZ U300 | AZ R1 | AZ R2 | AZ R3 | AZMR20 
 - **Highlights:**  
   - Compatible with UHF/HF RFID protocols for flexible integration
   - High sensitivity and long-range read capabilities ensure fast and accurate tag detection 
@@ -48,6 +47,20 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - Asset tracking
 - **Product page:**  
 (https://rfidtag.com/product-category/rfid-readers/)
+
+  ### 4. RFID LED TAG
+- **Model:** AZC-K5XBL-PVC-8654 
+- **Highlights:**  
+  - Built-in LED indicator enables visual identification and location
+  - Supports UHF RFID protocols for versatile applications
+  - Compact size for easy attachment to assets
+  - Cost-effective solution for smart tracking
+- **Ideal for:**  
+  - Warehouse asset tracking and picking
+  - Inventory management
+  - Item location verification
+- **Product page:**  
+(https://rfidtag.com/product-category/by-tag-type/rfid-led-tag/))
 
 ---
 
