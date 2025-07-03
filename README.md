@@ -48,8 +48,8 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 - **Product page:**  
 (https://rfidtag.com/product-category/rfid-readers/)
 
-  ### 4. RFID LED TAG
-- **Model:** AZC-K5XBL-PVC-8654 
+  ### 4. RFID LED TAG 
+- **Model:** AZC-K5XBL-PVC-8654 | AZP-K5XBL-OM3M-6020
 - **Highlights:**  
   - Built-in LED indicator enables visual identification and location
   - Supports UHF RFID protocols for versatile applications
@@ -60,7 +60,21 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - Inventory management
   - Item location verification
 - **Product page:**  
-(https://rfidtag.com/product-category/by-tag-type/rfid-led-tag/))
+(https://rfidtag.com/product-category/by-tag-type/rfid-led-tag/)
+
+### 5. RFID Wristband
+- **Model:** AZ-EM4200-SW | AZ-TK4100-SW | AZ-T5577-SW | AZ-S50-SW
+- **Highlights:**  
+  - Comfortable and durable design for long-term wear
+  - Available in NFC (HF) and UHF RFID options
+  - Waterproof and reusable material
+  - Ideal for secure access control and event management
+- **Ideal for:**  
+  - Hotel key wristbands
+  - Theme parks and events
+  - Membership and fitness centers
+- **Product page:**  
+(https://rfidtag.com/product-category/by-tag-type/rfid-wristband/)
 
 ---
 
