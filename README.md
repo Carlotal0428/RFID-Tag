@@ -62,7 +62,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 - **Product page:**  
 (https://rfidtag.com/product-category/by-tag-type/rfid-led-tag/)
 
-### 5. RFID Wristband
+  ### 5. RFID Wristband
 - **Model:** AZ-EM4200-SW | AZ-TK4100-SW | AZ-T5577-SW | AZ-S50-SW
 - **Highlights:**  
   - Comfortable and durable design for long-term wear
