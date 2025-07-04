@@ -63,7 +63,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product-category/by-tag-type/rfid-led-tag/)
 
   ### 5. RFID Wristband
-- **Model:** AZ-EM4200-SW | AZ-TK4100-SW | AZ-T5577-SW | AZ-S50-SW
+- **Model:** AZ-EM4200-SW | AZ-TK4100-SW | AZ-T5577-SW | AZ-S50-SW | AZ-NTAG213-SW | AZ-ULT EV1-SW | AZ-ULT C-SW
 - **Highlights:**  
   - Comfortable and durable design for long-term wear
   - Available in NFC (HF) and UHF RFID options
@@ -75,6 +75,21 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - Membership and fitness centers
 - **Product page:**  
 (https://rfidtag.com/product-category/by-tag-type/rfid-wristband/)
+
+  ### 6. RFID Industrial Tag
+- **Model:** AZ-U8-PEEK-4015 | AZP-U8-OMPPS-4732
+- **Highlights:**  
+  - Designed to withstand harsh industrial environments
+  - High-temperature resistant, chemical resistant, and suitable for embedding in concrete
+  - Reliable on-metal performance for asset tracking
+  - Durable materials ensure long service life
+- **Ideal for:**  
+  - Industrial equipment and machinery tracking
+  - Chemical plants and oil & gas industries
+  - Concrete structure monitoring
+  - On-metal asset and tool management
+- **Product page:**  
+(https://rfidtag.com/product-category/by-tag-type/rfid-industrial-tag/)
 
 ---
 
