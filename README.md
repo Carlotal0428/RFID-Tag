@@ -77,7 +77,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product-category/by-tag-type/rfid-wristband/)
 
   ### 6. RFID Industrial Tag
-- **Model:** AZ-U8-PEEK-4015 | AZP-U8-OMPPS-4732
+- **Model:** AZ-U8-PEEK-4015 | AZP-U8-OMPPS-4732 | AZ-H3-BXG | AZP-H9-OMPPS-4732 | AZ-H4-OMHTM-D20 | AZ-H4-OMHTM-4215 | AZ-U8-PEEK-4129
 - **Highlights:**  
   - Designed to withstand harsh industrial environments
   - High-temperature resistant, chemical resistant, and suitable for embedding in concrete
