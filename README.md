@@ -77,7 +77,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product-category/by-tag-type/rfid-wristband/)
 
   ### 6. RFID Industrial Tag
-- **Model:** AZ-U8-PEEK-4015 | AZP-U8-OMPPS-4732 | AZ-H3-BXG | AZP-H9-OMPPS-4732 | AZ-H4-OMHTM-D20 | AZ-H4-OMHTM-4215 | AZ-U8-PEEK-4129
+- **Model:** AZ-U8-PEEK-4015 | AZP-U8-OMPPS-4732 | AZ-H3-BXG | AZP-H9-OMPPS-4732 | AZ-H4-OMHTM-D20 | AZ-H4-OMHTM-4215 | AZ-U8-PEEK-4129 | AZ-R6-OMTPU-9018 | AZP-H3-OMPPS-2626 | AZP-U8-OMPPS-2626
 - **Highlights:**  
   - Designed to withstand harsh industrial environments
   - High-temperature resistant, chemical resistant, and suitable for embedding in concrete
@@ -90,6 +90,21 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - On-metal asset and tool management
 - **Product page:**  
 (https://rfidtag.com/product-category/by-tag-type/rfid-industrial-tag/)
+
+  ### 7. NFC Review Cards
+- **Model:** AZ-NTAG213-PVC-GRS | AZ-NTAG216-PVC-GRS
+- **Highlights:**  
+  - Designed for convenient contactless customer feedback collection
+  - Fast NFC tap interaction, no app installation needed
+  - Customizable print design to match your branding
+  - Durable waterproof and scratch-resistant materials
+- **Ideal for:**  
+  - Restaurants, cafes, and hotels collecting instant guest reviews
+  - Retail stores and service counters boosting online ratings
+  - Events, pop-up stores, and exhibitions gathering visitor feedback
+  - Integrating with Google Review or custom landing pages
+- **Product page:**  
+(https://rfidtag.com/product-category/by-tag-type/nfc-review-cards/)
 
 ---
 
