@@ -92,7 +92,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product-category/by-tag-type/rfid-industrial-tag/)
 
   ### 7. NFC Review Cards
-- **Model:** AZ-NTAG213-PVC-GRS | AZ-NTAG216-PVC-GRS
+- **Model:** AZ-NTAG213-PVC-GRS | AZ-NTAG216-PVC-GRS | AZ-NTAG213-ACL3M-GRS | AZ-NTAG216-ACL3M-GRS
 - **Highlights:**  
   - Designed for convenient contactless customer feedback collection
   - Fast NFC tap interaction, no app installation needed
@@ -105,6 +105,22 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - Integrating with Google Review or custom landing pages
 - **Product page:**  
 (https://rfidtag.com/product-category/by-tag-type/nfc-review-cards/)
+
+  ### 8. RFID Cable Tie Tag
+- **Model:** AZCT-4QT-AN-10330 | AZCT-H9-AW-10028 | AZCT-N213-AN
+- **Highlights:**  
+  - Efficient and tamper-evident solution for tracking industrial assets
+  - Made from durable ABS with steel wire or ABS with nylon for secure bundling
+  - Prevents removal without cutting for enhanced security
+  - Widely used in logistics, construction, and equipment management
+- **Ideal for:**  
+  - Cables and pipes tracking
+  - Tools and industrial asset management
+  - Inventory automation and compliance
+  - Equipment visibility and security
+- **Product page:**  
+(https://rfidtag.com/product-category/by-tag-type/rfid-cable-tie-tag/)
+
 
 ---
 
