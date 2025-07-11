@@ -4,20 +4,19 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 
 ## 📄 Available Datasheets
 
-### 1. Textile Anti-Gamma Ray UHF RFID Laundry Tag
+### 1. RFID Laundry Tag
 
-- **Model:** AZ-ATG-LTW-7015  
+- **Model:** AZ-ATG-LTW-7015 | AZCT-U9-AW | AZ-M4QT-LTWS-5512 | AZ-U7M-LTPPS-D18
 - **Highlights:**  
-  - Anti-gamma ray resistant  
-  - Up to 200 industrial wash cycles  
-  - Skin-safe textile material  
-  - Powered by X-RFID® technology  
+  - Designed for industrial laundry and reuse 
+  - Resistant to chemicals, water, and repeated mechanical stress 
+  - Soft and flexible textile-grade material, safe for skin contact 
 - **Ideal for:**  
-  - Uniform management  
-  - Medical apparel tracking  
-  - Military clothing identification  
+  - Uniform and workwear management
+  - Medical linen and apparel tracking 
+  - Hotel, hospital, and military clothing identification
 - **Product page:**  
-  [https://rfidtag.com/product/textile-anti-gamma-ray-uhf-rfid-laundry-tag/](https://rfidtag.com/product/textile-anti-gamma-ray-uhf-rfid-laundry-tag/)
+  (https://rfidtag.com/product-category/by-industries/garment/rfid-laundry-tag-garment/)
 
   ### 2. ABS RFID KEY-FOB Tag
 
@@ -107,7 +106,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product-category/by-tag-type/nfc-review-cards/)
 
   ### 8. RFID Cable Tie Tag
-- **Model:** AZCT-4QT-AN-10330 | AZCT-H9-AW-10028 | AZCT-N213-AN
+- **Model:** AZCT-4QT-AN-10330 | AZCT-H9-AW-10028 | AZCT-N213-AN | AZCT-U9-AN | AZCT-N213-TAN-D28 | AZCT-R6-AW | AZCT-R6-AN | AZCT-SLIX-AN-5630 | AZCT-U8-AN | AZCT-U8-AN-10330
 - **Highlights:**  
   - Efficient and tamper-evident solution for tracking industrial assets
   - Made from durable ABS with steel wire or ABS with nylon for secure bundling
