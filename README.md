@@ -6,7 +6,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 
 ### 1. RFID Laundry Tag
 
-- **Model:** AZ-ATG-LTW-7015 | AZCT-U9-AW | AZ-M4QT-LTWS-5512 | AZ-U7M-LTPPS-D18
+- **Model:** AZ-ATG-LTW-7015 | AZCT-U9-AW | AZ-M4QT-LTWS-5512 | AZ-U7M-LTPPS-D18 | AZ-U9-LTW-3515 | AZ-U7M-LTPPS-D20 | AZ-U9-LTW-7010 | AZ-U9-LTW-5815 | AZ-U9-LTW-7015
 - **Highlights:**  
   - Designed for industrial laundry and reuse 
   - Resistant to chemicals, water, and repeated mechanical stress 
