@@ -6,7 +6,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 
 ### 1. RFID Laundry Tag
 
-- **Model:** AZ-ATG-LTW-7015 | AZCT-U9-AW | AZ-M4QT-LTWS-5512 | AZ-U7M-LTPPS-D18 | AZ-U9-LTW-3515 | AZ-U7M-LTPPS-D20 | AZ-U9-LTW-7010 | AZ-U9-LTW-5815 | AZ-U9-LTW-7015
+- **Model:** AZ-ATG-LTW-7015 | AZCT-U9-AW | AZ-M4QT-LTWS-5512 | AZ-U7M-LTPPS-D18 | AZ-U9-LTW-3515 | AZ-U7M-LTPPS-D20 | AZ-U9-LTW-7010 | AZ-U9-LTW-5815 | AZ-U9-LTW-7015 | AZ-U9-LTW-7515-D5
 - **Highlights:**  
   - Designed for industrial laundry and reuse 
   - Resistant to chemicals, water, and repeated mechanical stress 
@@ -106,7 +106,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product-category/by-tag-type/nfc-review-cards/)
 
   ### 8. RFID Cable Tie Tag
-- **Model:** AZCT-4QT-AN-10330 | AZCT-H9-AW-10028 | AZCT-N213-AN | AZCT-U9-AN | AZCT-N213-TAN-D28 | AZCT-R6-AW | AZCT-R6-AN | AZCT-SLIX-AN-5630 | AZCT-U8-AN | AZCT-U8-AN-10330
+- **Model:** AZCT-4QT-AN-10330 | AZCT-H9-AW-10028 | AZCT-N213-AN | AZCT-U9-AN | AZCT-N213-TAN-D28 | AZCT-R6-AW | AZCT-R6-AN | AZCT-SLIX-AN-5630 | AZCT-U8-AN | AZCT-U8-AN-10330 | AZCT-R6P-AN-5630
 - **Highlights:**  
   - Efficient and tamper-evident solution for tracking industrial assets
   - Made from durable ABS with steel wire or ABS with nylon for secure bundling
@@ -119,6 +119,36 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - Equipment visibility and security
 - **Product page:**  
 (https://rfidtag.com/product-category/by-tag-type/rfid-cable-tie-tag/)
+
+  ### 9. RFID Recyclable Cup
+- **Model:** IDCycle®CUP-568
+- **Highlights:**  
+  - Integrated RFID chip for easy tracking and return management
+  - Made from reusable, eco-friendly PP material
+  - Supports smart deposit and return systems for sustainability
+  - Dishwasher safe and durable for multiple use cycles
+- **Ideal for:**  
+  - Coffee shops and beverage chains
+  - Event and stadium reusable cup programs
+  - Corporate sustainability initiatives
+  - Smart city waste reduction programs
+- **Product page:**  
+(https://rfidtag.com/product/pp-rfid-recyclable-cup/)
+
+  ### 10. NFC rings
+- **Model:** AZRI-N213 | AZRI-N216
+- **Highlights:**  
+  - Built-in NFC chip enables secure contactless interaction
+  - Made from durable, skin-safe ceramic or resin material
+  - No battery needed, maintenance-free usage
+  - Supports customizable functions like smart access, payment, and data sharing
+- **Ideal for:**  
+  - Personal digital business cards
+  - Smart home or office access control
+  - Contactless payments and authentication
+  - Event check-in and membership management
+- **Product page:**  
+(https://rfidtag.com/product-category/by-tag-type/nfc-ring/)
 
 
 ---
