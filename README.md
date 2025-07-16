@@ -136,7 +136,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product/pp-rfid-recyclable-cup/)
 
   ### 10. NFC rings
-- **Model:** AZRI-N213 | AZRI-N216
+- **Model:** AZRI-N213 | AZRI-N216 | AZRI-N424
 - **Highlights:**  
   - Built-in NFC chip enables secure contactless interaction
   - Made from durable, skin-safe ceramic or resin material
@@ -150,7 +150,34 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 - **Product page:**  
 (https://rfidtag.com/product-category/by-tag-type/nfc-ring/)
 
+  ### 11. NFC LED Wristband
+- **Model:** AZ-N216-FLW | AZ-N213-FLW | AZ-FLW-RMC
+- **Highlights:**  
+  - Built-in NFC chip for secure contactless access and data exchange
+  - Integrated LED light for visual status and event interaction
+  - ABS shell with soft, skin-friendly silicone or TPU band
+  - Reusable and easy to customize with logos or colors
+- **Ideal for:**  
+  - Concerts and music festivals
+  - Parties and nightlife events
+  - Smart ticketing and event check-in
+  - Interactive marketing campaigns
+- **Product page:**  
+(https://rfidtag.com/product-category/by-tag-type/nfc-led-wristband/)
 
+
+  ### 12. Playing card
+- **Model:** AZP-PVC-8863
+- **Highlights:**  
+  - Embedded RFID/NFC chip for unique card identification and anti-counterfeiting
+  - Made from high-quality PVC material for durability and smooth handling
+  - Customizable design for branding and special events
+- **Ideal for:**  
+  - Casino table games and secure card tracking
+  - Smart entertainment and interactive gaming
+  - Branded promotional gifts
+- **Product page:**  
+(https://rfidtag.com/product-category/by-tag-type/playing-card/)
 ---
 
 ## 📦 Usage
