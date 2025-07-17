@@ -34,7 +34,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
  https://rfidtag.com/product-category/by-industries/hospitality/rfid-keyfob/
 
   ### 3. RFID Readers and Antenna
-- **Model:** AZRT-LMR200-15M | AZRT-LMR400-5M | AZ 9 dBi | AZ-5 dBi | AZ 12 dBi | AZ-EA26 | AZ RL173 | AZ-DA28 | AZ CP30 | AZ C72 | AZ U300 | AZ R1 | AZ R2 | AZ R3 | AZMR20 
+- **Model:** AZRT-LMR200-15M | AZRT-LMR400-5M | AZ 9 dBi | AZ-5 dBi | AZ 12 dBi | AZ-EA26 | AZ RL173 | AZ-DA28 | AZ CP30 | AZ C72 | AZ U300 | AZ R1 | AZ R2 | AZ R3 | AZMR20 | AZ-RL863
 - **Highlights:**  
   - Compatible with UHF/HF RFID protocols for flexible integration
   - High sensitivity and long-range read capabilities ensure fast and accurate tag detection 
@@ -165,9 +165,8 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 - **Product page:**  
 (https://rfidtag.com/product-category/by-tag-type/nfc-led-wristband/)
 
-
   ### 12. Playing card
-- **Model:** AZP-PVC-8863
+- **Model:** AZP-PVC-8863 | AZP-4QT-PVC-8863
 - **Highlights:**  
   - Embedded RFID/NFC chip for unique card identification and anti-counterfeiting
   - Made from high-quality PVC material for durability and smooth handling
@@ -178,6 +177,33 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - Branded promotional gifts
 - **Product page:**  
 (https://rfidtag.com/product-category/by-tag-type/playing-card/)
+
+  ### 13. NFC FPCB Tag
+- **Model:** AZT-N213-FPCB-D20 | AZT-SLIX-FPCB-D20
+- **Highlights:**  
+  - Embedded NFC chip enables secure, contactless identification
+  - Ultra-thin FPCB construction allows for flexible integration
+  - Durable and lightweight, suitable for high-frequency use
+- **Ideal for:**  
+  - Casino chips and secure asset tracking
+  - Interactive entertainment and gaming devices
+  - Custom NFC branding and promotional campaigns
+- **Product page:**  
+(https://rfidtag.com/product-category/nfc-tag-type/nfc-fpcb-tag/)
+
+  ### 14. RFID Tire Tag
+- **Model:** AZST-H9-WR-8401
+- **Highlights:**  
+  - Specifically engineered for tire manufacturing processes
+  - Withstands high temperatures, pressure, and chemical exposure
+  - Encapsulated in durable materials for long-term in-tire use
+  - Offers stable, long-range readability for automated tracking
+- **Ideal for:**  
+  - Tire manufacturing and lifecycle traceability
+  - Automotive aftermarket services and anti-counterfeiting
+  - Warehouse logistics and vehicle asset management
+- **Product page:**  
+(https://rfidtag.com/product-category/rfid-tag-type/rfid-tire-tag/)
 ---
 
 ## 📦 Usage
