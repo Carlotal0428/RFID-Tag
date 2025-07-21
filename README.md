@@ -34,7 +34,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
  https://rfidtag.com/product-category/by-industries/hospitality/rfid-keyfob/
 
   ### 3. RFID Readers and Antenna
-- **Model:** AZRT-LMR200-15M | AZRT-LMR400-5M | AZ 9 dBi | AZ-5 dBi | AZ 12 dBi | AZ-EA26 | AZ RL173 | AZ-DA28 | AZ CP30 | AZ C72 | AZ U300 | AZ R1 | AZ R2 | AZ R3 | AZMR20 | AZ-RL863
+- **Model:** AZRT-LMR200-15M | AZRT-LMR400-5M | AZ 9 dBi | AZ-5 dBi | AZ 12 dBi | AZ-EA26 | AZ RL173 | AZ-DA28 | AZ CP30 | AZ C72 | AZ U300 | AZ R1 | AZ R2 | AZ R3 | AZMR20 | AZ-RL863 | AZ-RD5230 | AZ-RD5224
 - **Highlights:**  
   - Compatible with UHF/HF RFID protocols for flexible integration
   - High sensitivity and long-range read capabilities ensure fast and accurate tag detection 
@@ -76,7 +76,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product-category/by-tag-type/rfid-wristband/)
 
   ### 6. RFID Industrial Tag
-- **Model:** AZ-U8-PEEK-4015 | AZP-U8-OMPPS-4732 | AZ-H3-BXG | AZP-H9-OMPPS-4732 | AZ-H4-OMHTM-D20 | AZ-H4-OMHTM-4215 | AZ-U8-PEEK-4129 | AZ-R6-OMTPU-9018 | AZP-H3-OMPPS-2626 | AZP-U8-OMPPS-2626
+- **Model:** AZ-U8-PEEK-4015 | AZP-U8-OMPPS-4732 | AZ-H3-BXG | AZP-H9-OMPPS-4732 | AZ-H4-OMHTM-D20 | AZ-H4-OMHTM-4215 | AZ-U8-PEEK-4129 | AZ-R6-OMTPU-9018 | AZP-H3-OMPPS-2626 | AZP-U8-OMPPS-2626 | AZT-R6P-OMPLS-5147
 - **Highlights:**  
   - Designed to withstand harsh industrial environments
   - High-temperature resistant, chemical resistant, and suitable for embedding in concrete
@@ -192,7 +192,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product-category/nfc-tag-type/nfc-fpcb-tag/)
 
   ### 14. RFID Tire Tag
-- **Model:** AZST-H9-WR-8401
+- **Model:** AZST-H9-WR-8401 | AZTP-H9-RB-9535 | AZTP-H9-RB-8538
 - **Highlights:**  
   - Specifically engineered for tire manufacturing processes
   - Withstands high temperatures, pressure, and chemical exposure
