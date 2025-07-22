@@ -204,6 +204,33 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - Warehouse logistics and vehicle asset management
 - **Product page:**  
 (https://rfidtag.com/product-category/rfid-tag-type/rfid-tire-tag/)
+
+  ### 15. RFID EAS Smart Security Tag
+- **Model:** AZT-EAS-U8-ABS-7331
+- **Highlights:**  
+  - Combines RFID and EAS technologies for enhanced theft prevention
+  - Durable ABS housing provides impact resistance and tamper protection
+  - Reliable long-range read capability for inventory management and security
+  - Ideal for retail, warehousing, and asset protection applications
+- **Ideal for:**  
+  - Retail merchandise theft deterrence
+  - Warehouse asset tracking and security
+  - High-value goods authentication and anti-counterfeiting
+- **Product page:**  
+(https://rfidtag.com/product-category/rfid-tag-type/rfid-eas-smart-security-tag/)
+
+  ### 16. RFID Pin Tag
+- **Model:** AZT-EAS-R6P-ABS-D34T5
+- **Highlights:**  
+  - Reliable long-range readability to support efficient inventory workflows
+  - Simple and secure pin buckle fastening mechanism 
+  - Suitable for high-volume retail operations and loss prevention  
+- **Ideal for:**  
+  - Retail apparel security 
+  - Inventory tracking and stock control 
+  - Loss prevention and anti-theft systems 
+- **Product page:**  
+(https://rfidtag.com/product-category/rfid-tag-type/rfid-pin-tag/)
 ---
 
 ## 📦 Usage
