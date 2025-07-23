@@ -6,7 +6,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 
 ### 1. RFID Laundry Tag
 
-- **Model:** AZ-ATG-LTW-7015 | AZCT-U9-AW | AZ-M4QT-LTWS-5512 | AZ-U7M-LTPPS-D18 | AZ-U9-LTW-3515 | AZ-U7M-LTPPS-D20 | AZ-U9-LTW-7010 | AZ-U9-LTW-5815 | AZ-U9-LTW-7015 | AZ-U9-LTW-7515-D5
+- **Model:** AZ-ATG-LTW-7015 | AZCT-U9-AW | AZ-M4QT-LTWS-5512 | AZ-U7M-LTPPS-D18 | AZ-U9-LTW-3515 | AZ-U7M-LTPPS-D20 | AZ-U9-LTW-7010 | AZ-U9-LTW-5815 | AZ-U9-LTW-7015 | AZ-U9-LTW-7515-D5 | AZT-U9XE-TXT-7015
 - **Highlights:**  
   - Designed for industrial laundry and reuse 
   - Resistant to chemicals, water, and repeated mechanical stress 
@@ -231,6 +231,32 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
   - Loss prevention and anti-theft systems 
 - **Product page:**  
 (https://rfidtag.com/product-category/rfid-tag-type/rfid-pin-tag/)
+
+  ### 17. On-metal NFC Mobile Tag
+- **Model:** AZT-N213-HPET-D30
+- **Highlights:**  
+  - Optimized for reliable NFC performance on metal surfaces
+  - Compact, durable design ideal for mobile device attachment 
+  - Strong signal stability ensures consistent data transmission 
+- **Ideal for:**  
+  - NFC interaction on smartphones, tablets, or industrial devices with metal components 
+  - Asset tagging and equipment identification in mobile environments 
+  - Mobile-based authentication or check-in systems
+- **Product page:**  
+(https://rfidtag.com/product-category/nfc-tag-type/on-metal-nfc-mobile-tag/)
+
+  ### 17. The other RFID Tag
+- **Model:** AZT-H3-PCB-D5T4 | AZT-ICDNA-PET3M-D35 | AZT-N216-PET3M-5030 | AZT-SLIX-OMPET3M-D30 | AZT-SLIX-PET3M-3020 | AZT-U8-PCB-D5T2
+- **Highlights:**  
+  - Wide range of RFID tags covering diverse form factors and materials
+  - Designed for reliable performance in various environments
+  - Flexible integration options to suit different applications
+- **Ideal for:**  
+  - Asset tracking and inventory management across industries
+  - Access control, authentication, and identificatio
+  - General RFID applications requiring durable and versatile tags
+- **Product page:**  
+(https://rfidtag.com/rfid-map/)
 ---
 
 ## 📦 Usage
