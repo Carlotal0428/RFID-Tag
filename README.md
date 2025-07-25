@@ -233,7 +233,7 @@ This repository contains official technical datasheets for RFIDTag Solutions' pr
 (https://rfidtag.com/product-category/rfid-tag-type/rfid-pin-tag/)
 
   ### 17. On-metal NFC Mobile Tag
-- **Model:** AZT-N213-HPET-D30
+- **Model:** AZT-N213-HPET-D30 | AZT-ULC-HPET-D30
 - **Highlights:**  
   - Optimized for reliable NFC performance on metal surfaces
   - Compact, durable design ideal for mobile device attachment 
